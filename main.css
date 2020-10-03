@@ -18,8 +18,19 @@
     align-self: center;
     box-shadow: rgb(52, 52, 138) 2px 5px 5px;
 }
+
+div p{
+    color:#ecfdf9;
+    font-size: 20px;
+
+}
+#hyperlinks {
+color: turquoise;
+font-size:20px;
+}
 .course-link{
-    color: #ecfdf9;
+color: turquoise;
+
 }
 body{
     margin: 0;
